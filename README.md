@@ -2,6 +2,7 @@
 
 - Party Ability Bars for Endless-TBC on 3.3.5 Client.
 - Modified by Distorted.
+## [Download Here](https://github.com/Distorted39/PAB-Backport-Endless-TBC-3.3.5/archive/refs/heads/master.zip)
 
 ## Setup
 - Put "PAB" folder in the AddOns folder
